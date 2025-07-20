@@ -1,7 +1,7 @@
 
 # 📦 projet-avis-js
 
-> A simple JavaScript project to display customer reviews for a fictional website. This is part of the **OpenClassrooms - Front-End Developer** training program.
+> A simple JavaScript project to display customer reviews for a fictional website. This is part of the **OpenClassrooms - Web Integrator training program.
 
 ## 🎯 Objective
 
