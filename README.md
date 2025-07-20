@@ -66,7 +66,5 @@ npm run lint
 ```
 
 ---
-
 ## ✅ Author
-
-This project was developed by **Sun Ting** as part of the [OpenClassrooms – Front-End Developer path](https://openclassrooms.com/en/paths/518-front-end-developer).
+Created by Sun Ting as part of the Web Integrator course at OpenClassrooms.
